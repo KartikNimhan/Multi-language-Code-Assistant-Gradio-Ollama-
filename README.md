@@ -1,10 +1,10 @@
-````markdown
+
 # 🧠 Multi-language Code Assistant (Gradio + Ollama)
 
 A lightweight, interactive **code assistant** built using [Gradio](https://www.gradio.app/) for the frontend and a locally hosted **LLM (`codeguru`)** served via [Ollama](https://ollama.com/) on the backend.
 
 ---
-
+````markdown
 ## 📦 Installation
 
 1. **Clone the repository**
