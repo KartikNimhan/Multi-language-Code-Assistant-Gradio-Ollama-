@@ -27,8 +27,8 @@ This project is a simple, interactive **code assistant interface** built using [
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikNimhan/Multi-language-Code-Assistant-Gradio-Ollama-.git
-   cd Multi-language-Code-Assistant-Gradio-Ollama
+   git clone https://github.com/your-username/multilanguage-code-assistant.git
+   cd multilanguage-code-assistant
 ````
 
 2. **Install dependencies:**
