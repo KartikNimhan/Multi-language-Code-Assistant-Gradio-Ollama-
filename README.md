@@ -9,7 +9,7 @@ A lightweight, interactive **code assistant** built using [Gradio](https://www.g
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Multi-language-Code-Assistant-Gradio-Ollama-.git
+   git clone https://github.com/KartikNimhan/Multi-language-Code-Assistant-Gradio-Ollama-.git
    cd Multi-language-Code-Assistant-Gradio-Ollama-
 ````
 
