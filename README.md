@@ -1,15 +1,7 @@
+````markdown
 # 🧠 Multi-language Code Assistant (Gradio + Ollama)
 
-A lightweight, interactive **code assistant** built using [Gradio](https://www.gradio.app/) for the frontend and a locally hosted **LLM (codeguru)** served via [Ollama](https://ollama.com/) on the backend.
-
----
-
-## 🚀 Features
-
-- 🧠 LLM-powered code suggestions
-- 🔁 Context-aware conversation with prompt history
-- 🎨 Easy-to-use Gradio web UI
-- 🧩 Built to run completely offline using Ollama
+A lightweight, interactive **code assistant** built using [Gradio](https://www.gradio.app/) for the frontend and a locally hosted **LLM (`codeguru`)** served via [Ollama](https://ollama.com/) on the backend.
 
 ---
 
@@ -72,9 +64,16 @@ How do I write a Python function to reverse a string?
 ## 🔧 Notes
 
 * Ensure that [Ollama](https://ollama.com/) is installed and running.
-* Confirm the `codeguru` model is available locally (`ollama run codeguru`).
+* Confirm the `codeguru` model is available locally:
+
+  ```bash
+  ollama run codeguru
+  ```
 * This project assumes the Ollama API is available at:
-  `http://localhost:11434`
+
+  ```
+  http://localhost:11434
+  ```
 
 ---
 
